@@ -1,0 +1,15 @@
+.cool {
+    background-color: rgb(190, 180, 180);
+    max-height: 20em;
+    min-height: 10em;
+    min-width: 15em;
+    max-width: 20em;
+    border-radius: 0.25em;
+    margin: 1em;
+}
+
+.cool h1, h4 {
+    color: black;
+
+}
+
