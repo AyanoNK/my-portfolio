@@ -1,8 +1,14 @@
 {
-    "proy1":  "miproyecto1 es",
-    "proy2": "blblb",
+    "proy1":  {
+        "time": 1,
+        "about": "about1"
+    },
+    "proy2": {
+        "time": 2,
+        "about": "about2"
+    },
     "proy3": {
         "time": 3,
-        "about": "about"
+        "about": "about3"
     }
 }

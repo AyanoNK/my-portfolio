@@ -1,4 +1,4 @@
-import JobTile from "./JobTile";
+import JobTiles from "./JobTiles";
 import "./styles/App.css";
 
 function App() {
@@ -9,9 +9,7 @@ function App() {
           <p>Portfolio</p>
         </header>
         <div className="app-content">
-          <JobTile />
-          <JobTile />
-          <JobTile />
+          <JobTiles />
         </div>
       </div>
     </div>
